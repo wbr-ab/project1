@@ -1,1 +1,1 @@
-Блог на Express, MongoDB. Интерфейс на Bootstrap.
+Блог на Express, MongoDB. Интерфейс на Bootstrap. Тема: web-программирование.
